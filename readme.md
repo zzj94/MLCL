@@ -12,7 +12,7 @@
 
 ### Dataset:
 
-- Please manually download the datasets [Office](https://drive.google.com/file/d/0B4IapRTv9pJ1WGZVd1VDMmhwdlE/view), [Office-Home](https://drive.google.com/file/d/0B81rNlvomiwed0V1YUxQdC1uOTg/view), [VisDA-2017](https://github.com/VisionLearningGroup/taskcv-2017-public/tree/master/classification), [DomainNet](https://paperswithcode.com/dataset/domainnet) from the official websites, and modify the path of images in each '.txt' under the folder './data/'.
+- Please manually download the datasets [Office](https://drive.google.com/file/d/0B4IapRTv9pJ1WGZVd1VDMmhwdlE/view), [Office-Home](https://drive.google.com/file/d/0B81rNlvomiwed0V1YUxQdC1uOTg/view), [VisDA-2017](https://github.com/VisionLearningGroup/taskcv-2017-public/tree/master/classification), [DomainNet](https://paperswithcode.com/dataset/domainnet) from the official websites.
 
 
 ### Training:
