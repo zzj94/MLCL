@@ -32,7 +32,7 @@
 	- Synthetic-to-real 
     ```python
     cd object/
-	 python mlcl_source.py --trte val --output ckps/source/ --da uda --gpu_id 0 --dset VISDA-C --net resnet101 --lr 1e-3 --max_epoch 10 --s 0
-	python mlcl_target.py --da uda --dset VISDA-C --gpu_id 0 --s 0 --output_src ckps/source/ --output ckps/target/ --net resnet101 --lr 1e-3 --cross_par 0.1 --aug_par 0.3 --psva 0.1 --ent_par 1
-	 ```
+    python mlcl_source.py --trte val --output ckps/source/ --da uda --gpu_id 0 --dset VISDA-C --net resnet101 --lr 1e-3 --max_epoch 10 --s 0
+    python mlcl_target.py --da uda --dset VISDA-C --gpu_id 0 --s 0 --output_src ckps/source/ --output ckps/target/ --net resnet101 --lr 1e-3 --cross_par 0.1 --aug_par 0.3 --psva 0.1 --ent_par 1
+   ```
 	
